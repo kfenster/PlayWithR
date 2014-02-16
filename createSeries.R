@@ -1,3 +1,7 @@
+require(xts)
+data(sample_matrix)
+class(sample_matrix)
+
 # create a simple series of just numbers
 simpleSeries <- seq(1,500,3)
 simpleTimeSeries <- ts(simpleSeries,start=c(1970,1), frequency=12)
