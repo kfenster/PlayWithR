@@ -3,8 +3,7 @@ PlayWithR
 
 Experimenting with R and time series
 
-Introduction to Statistical Learning -- Getting Started
--------------------------------------------------------
+### Introduction to Statistical Learning -- Getting Started
 
 If you are looking to follow along with the "Introduction to Statistical Learning" class...
 
@@ -14,3 +13,7 @@ If you are looking to follow along with the "Introduction to Statistical Learnin
     * ensure you're in this directory: (`setwd` and `getwd` set and get the current directory)
     * run `source("islr-quickstart.R")`. Currently all this does is load the ISLR package, which has all the datasets referred to in the book in it.
     * There's lots of help available. There's a video introduction in the course itself, but the R distribution also comes with a huge amount of embedded help, and R-Studio has a help pane where you can browse it all. The main page has a link to 'An Introduction to R' which is probably the right starting place.
+
+### Data Sources
+
+* [Interesting list of sources](http://blog.visual.ly/data-sources/)
