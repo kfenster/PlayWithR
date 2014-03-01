@@ -14,6 +14,6 @@ If you are looking to follow along with the "Introduction to Statistical Learnin
     * run `source("islr-quickstart.R")`. Currently all this does is load the ISLR package, which has all the datasets referred to in the book in it.
     * There's lots of help available. There's a video introduction in the course itself, but the R distribution also comes with a huge amount of embedded help, and R-Studio has a help pane where you can browse it all. The main page has a link to 'An Introduction to R' which is probably the right starting place.
 
-### Data Sources
+### References
 
-* [Interesting list of sources](http://blog.visual.ly/data-sources/)
+Links to further references may be found [here](references/index.md)
