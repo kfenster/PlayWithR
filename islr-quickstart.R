@@ -12,3 +12,6 @@ print(ls("package:ISLR"))
 # and open the same in the help window
 cat("This list also been opened in the Help browser\n")
 help(package = ISLR)
+
+# load tools for managing resources
+source("resources.R")

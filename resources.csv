@@ -1,0 +1,5 @@
+source,destDir,destName
+http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf,papers,IntroductionToStatisticalLearning.pdf
+http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf,papers,ElementsOfStatisticalLearning.pdf
+http://www.imf.org/external/pubs/ft/weo/2013/02/weodata/WEOOct2013all.xls,data,IMFWorldEconomicOutlookByCountry.xls
+
